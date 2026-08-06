@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cooked0under.github.io/snippets-6lcu2e/sitemap.xml
